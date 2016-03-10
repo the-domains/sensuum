@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SENSUUM]]></title>
         <description><![CDATA[SENSUUM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sensuum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 08:17:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 20:32:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sensuum/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>INSIGHTS INTO THE DIGITAL WORLD</p>]]></description>
-            <link>undefined51bc5b6e-f7b0-4ab7-925c-5aa55a968484/index.html</link>
+            <title><![CDATA[INSIGHTS INTO THE DIGITAL WORLD]]></title>
+            <description><![CDATA[<h1>INSIGHTS INTO THE DIGITAL WORLD</h1>]]></description>
+            <link>https://thegrid.ai/sensuum/51bc5b6e-f7b0-4ab7-925c-5aa55a968484/index.html</link>
             <guid isPermaLink="false">51bc5b6e-f7b0-4ab7-925c-5aa55a968484</guid>
-            <pubDate>Thu, 10 Mar 2016 08:17:04 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 20:32:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
