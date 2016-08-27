@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T21:58:34.111Z'
+datePublished: '2016-08-26T22:04:58.234Z'
 sourcePath: _posts/2016-08-26-whats-in-a-book.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-26T21:58:33.389Z'
+dateModified: '2016-08-26T22:04:57.510Z'
 title: WHAT’S IN A BOOK?!
 publisher: {}
 description: >-
