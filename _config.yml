@@ -1,19 +1,4 @@
-name: SENSUUM
-favicon: null
-layout_spectrum: 0.6169559429399669
 typography_spectrum: 0.6223073224537075
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fbfbf7'
@@ -25,4 +10,19 @@ color:
   lightness: 0.13823971757665277
   saturation: 0.9894253879319876
   rhythmicContrast: 0.5347778853029013
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6169559429399669
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: SENSUUM
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
