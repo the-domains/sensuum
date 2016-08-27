@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-26T21:32:14.267Z'
+datePublished: '2016-08-26T21:58:34.111Z'
+sourcePath: _posts/2016-08-26-whats-in-a-book.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-26T21:31:40.060Z'
+dateModified: '2016-08-26T21:58:33.389Z'
 title: WHAT’S IN A BOOK?!
 publisher: {}
 description: >-
@@ -11,7 +12,6 @@ description: >-
   reads” - famous words by Ralph Waldo Emerson - have always summed up my
   thoughts on books and reading.
 starred: false
-sourcePath: _posts/2016-08-26-whats-in-a-book.md
 _type: Blurb
 
 ---
