@@ -37,6 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Book of the Day
+title: Book of the Week
 description: The Score Takes Care of Itself - Bill Walsh
 purpose: []
