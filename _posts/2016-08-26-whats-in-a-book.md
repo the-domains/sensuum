@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-27T10:21:02.735Z'
+datePublished: '2016-08-27T10:37:32.053Z'
 sourcePath: _posts/2016-08-26-whats-in-a-book.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-27T10:21:01.781Z'
+dateModified: '2016-08-27T10:37:31.292Z'
 title: WHAT’S IN A BOOK?!
 publisher: {}
 description: >-
@@ -21,7 +21,7 @@ _type: Blurb
 
 **"If we encounter a man of rare intellect, we should ask him what books he reads" - famous words by Ralph Waldo Emerson - have always summed up my thoughts on books and reading.**
 
-My fascination for books started with a love for collecting them. My father has always been an avid reader, and my earliest memories of childhood were mounds of books in his bedroom and office. Yet, even though I was taught to read in primary school and I excelled in both English Language and English Literature in secondary school, I never truly enjoyed or appreciated the gift of reading - the odd Grisham, Sheldon, Archer or Ludlum book aside.
+My fascination with books started with a love for collecting them. My father has always been an avid reader, and my earliest memories of childhood were mounds of books in his bedroom and office. Yet, even though I was taught to read in primary school and I excelled in both English Language and English Literature in secondary school, I never truly enjoyed or appreciated the gift of reading - the odd Grisham, Sheldon, Archer or Ludlum book aside.
 
 I truly discovered my love for reading in my early twenties - at my most prolific, reading two books a week, whilst the internet kept me awake hours beyond my bedtime - and it is a love that has given me more wisdom, intelligence and discernment than most experiences I have encountered in my relatively short life. In the past three years, I have discovered an even greater love for books - with my tastes evolving as my interests and passions have evolved.
 
