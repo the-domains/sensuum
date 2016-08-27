@@ -1,30 +1,42 @@
-layout_spectrum: 0.6169559429399669
-typography_spectrum: 0.5785677148960531
+title: ''
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: ''
 color:
+  saturation: 0.9894253879319876
+  brandStrength: 0.4451945808250457
+  rhythmicContrast: 0.5347778853029013
   brandColors:
     - '#fbfbf7'
     - '#97bbd9'
     - '#3b291a'
     - '#b4614a'
     - '#005481'
-  brandStrength: 0.4451945808250457
-  lightness: 0.13823971757665277
-  saturation: 0.9894253879319876
-  rhythmicContrast: 0.5347778853029013
+  lightness: 0.1382397175766528
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: SENSUUM
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: SENSUUM
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: ''
-description: ''
-purpose: []
+typography_spectrum: 0.5785677148960531
+layout_spectrum: 1
